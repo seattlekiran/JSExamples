@@ -111,6 +111,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="Customer.aspx" />
+    <Content Include="Inheritance.htm" />
     <Content Include="Scripts\Customer.js" />
     <Content Include="Scripts\General.js" />
     <Content Include="Scripts\jquery-1.7.2-vsdoc.js" />
